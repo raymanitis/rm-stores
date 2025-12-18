@@ -1,3 +1,5 @@
+![RM-STORES thumbnail](https://i.imgur.com/f3s41wd.png)
+
 # RM-STORES
 
 Custom shop system built on top of the [`ef_shops`](https://github.com/jellyton255/ef_shops) base, with a UI redesigned for this project.
